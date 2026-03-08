@@ -1,4 +1,5 @@
 # Apanacollege-demo
 1git demo
 <br>
-author Lalfakzuala
+author Lalfakzuala (apna college)  
+
